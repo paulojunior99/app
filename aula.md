@@ -25,7 +25,7 @@ Apresentar os dados
 ## Escopo e variáveis:
 
 -[x]Variaveis globais e locais 
-Costantes
+-[x]Costantes
 
 ## Tipos de dados
 
@@ -45,9 +45,9 @@ Costantes
 ### Arrays:
 
 -[x]Uma lista que contém qualquer tipo de dado
--[x]Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+-[x]Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
-### Objetos?
+### Objetos:
 
 -[x]Aribuido e métodods
 -[x]Criação e manipulação de objetos
