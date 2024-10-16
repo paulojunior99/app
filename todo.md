@@ -5,4 +5,4 @@
 - [x]Marcar/Desmarcar metas ralizadas
 - [x]Remover metas
 - [x]Sistema de mensagens
-- [x]Persistir dados: Sistema de de carregar e salvar metas!
+- [x]Persistir Dados: Sistema de de carregar e salvar metas!
