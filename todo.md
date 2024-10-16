@@ -3,5 +3,5 @@
     - [x]Metas concluidas
     - [x]Metas abetas
 - [x]Marcar/Desmarcar metas ralizadas
-- Remover metas
+- [x]Remover metas
 - Sistema de mensagens
